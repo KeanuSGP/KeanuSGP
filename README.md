@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Keanu, a Systems Analysis and Development student at IBMEC.
+
+My main tech stack includes Spring Boot, React.js, and PostgreSQL. I use IntelliJ IDEA, Visual Studio Code, and Docker for development.
+
+My personal project, whose first version was recently released, is a [personal finance management application](https://github.com/KeanuSGP/personal-finance-management-api).
+
+Through my university coursework, I have also developed a Python API using Django and built a CRUD-based personal finance mobile application using Kotlin for the user interface, consuming my API through the Retrofit HTTP client.
+
+
 <!--
 **KeanuSGP/KeanuSGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
